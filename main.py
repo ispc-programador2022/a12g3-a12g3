@@ -17,7 +17,6 @@ presentacion()
 numeros = ing2i()
 #palabras = ing2s()
 
-from itertools import product
 from suma import suma
 print("La suma es: " + str( suma(numeros[0], numeros[1]) ))
 
